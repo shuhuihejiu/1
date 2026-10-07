@@ -1,0 +1,4 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.14)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+GL: NVIDIA GeForce RTX 5060 Laptop GPU/PCIe/SSE2 | 4.6.0 NVIDIA 591.91
+Unable to import OpenGL.arrays.numpymodule.NumpyHandler: No numpy module present: No module named 'numpy'
